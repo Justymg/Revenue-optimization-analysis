@@ -3,6 +3,7 @@ NOVATECH ELECTRONICS REVENUE OPTIMIZATION ANALYSIS
 
 
 #1 PROJECT BACKGROUND
+
 NovaTech Electronics aimed to analyze product performance, regional sales trends, and sales representative contribution to support revenue optimization and inventory planning decisions. 
 
 Insights and recommendation areas
@@ -15,6 +16,7 @@ Monthly Revenue Comparisons: inventory planning, promotional timing
 
 
 The dataset was pre-cleaned; validation checks were performed before analysis.
+
 Year : 2021
 Rows : 1560
 
@@ -23,6 +25,7 @@ Rows : 1560
 
 
 #3 EXECUTIVE SUMMARY
+
 Total Revenue: 8M
 Units Sold: 20K
 Top Revenue Product: Dell XPS 13
@@ -65,6 +68,7 @@ Mid-quarter periods showed comparatively weaker performance, indicating possible
 Revenue fluctuations highlight opportunities for strategic promotional planning and inventory optimization.
 
 #4 RECOMMENDATIONS
+
 Product 💻: 
 Increase inventory allocation for high-performing laptop models
 Location 🌆: 
